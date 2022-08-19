@@ -4,10 +4,10 @@ try {
 
 module.exports = {
     siteMetadata: {
-        title: `Unkn0wnCat.net`,
-        description: `A german gamer, coder, video editor.`,
-        author: `@Unkn0wnKevin`,
-        siteUrl: `https://unkn0wncat.net`,
+        title: `OmenDarkly.net`,
+        description: `A german gamer, IT Admin and coder.`,
+        author: `@timomrx`,
+        siteUrl: `https://omendarkly.net`,
     },
     plugins: [
         `gatsby-plugin-remove-serviceworker`,
