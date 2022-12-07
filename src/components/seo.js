@@ -69,7 +69,7 @@ function SEO({ description, lang, meta, title }) {
                 },
             ].concat(meta)}
         >
-            {/*<script defer data-domain="unkn0wncat.net" src="https://analytics.kevink.dev/js/plausible.js"></script>*/}
+            <script defer data-domain="omendarkly.net" src="https://tracking.strueker.net/js/script.js"></script>
         </Helmet>
     );
 }
